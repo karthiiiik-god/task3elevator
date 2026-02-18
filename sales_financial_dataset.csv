@@ -1,0 +1,21 @@
+Order_ID,Order_Date,Year,Month,Region,Category,Segment,Sales,Profit,Quantity
+1001,2023-01-05,2023,Jan,East,Technology,Consumer,1200,300,5
+1002,2023-01-18,2023,Jan,West,Furniture,Corporate,800,-50,3
+1003,2023-02-02,2023,Feb,South,Office Supplies,Home Office,450,120,4
+1004,2023-02-20,2023,Feb,North,Technology,Consumer,1500,400,6
+1005,2023-03-11,2023,Mar,East,Furniture,Corporate,950,200,2
+1006,2023-03-25,2023,Mar,West,Office Supplies,Consumer,600,150,7
+1007,2023-04-09,2023,Apr,South,Technology,Home Office,1800,500,8
+1008,2023-04-28,2023,Apr,North,Furniture,Consumer,700,-100,3
+1009,2023-05-14,2023,May,East,Office Supplies,Corporate,520,130,4
+1010,2023-05-30,2023,May,West,Technology,Consumer,2000,650,9
+1011,2023-06-08,2023,Jun,South,Furniture,Home Office,1100,250,5
+1012,2023-06-21,2023,Jun,North,Office Supplies,Corporate,750,180,6
+1013,2024-01-06,2024,Jan,East,Technology,Consumer,1300,320,6
+1014,2024-01-18,2024,Jan,West,Furniture,Corporate,850,-40,3
+1015,2024-02-04,2024,Feb,South,Office Supplies,Home Office,500,130,4
+1016,2024-02-21,2024,Feb,North,Technology,Consumer,1550,410,7
+1017,2024-03-12,2024,Mar,East,Furniture,Corporate,980,210,2
+1018,2024-03-27,2024,Mar,West,Office Supplies,Consumer,620,170,6
+1019,2024-04-08,2024,Apr,South,Technology,Home Office,1850,530,8
+1020,2024-04-25,2024,Apr,North,Furniture,Consumer,720,-90,3
